@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/base": ["./apps/base/*"],
+      "@/doc": ["./apps/doc/*"]
+    }
+  },
+  "include": ["apps/**/*"]
+
+}

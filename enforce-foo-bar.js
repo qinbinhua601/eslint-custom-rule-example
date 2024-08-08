@@ -1,5 +1,3 @@
-// enforce-foo-bar.js
-
 module.exports = {
   meta: {
     type: "problem",

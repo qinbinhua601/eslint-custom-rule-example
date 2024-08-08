@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node enforce-foo-bar.test.js"
+    "test2": "node enforce-foo-bar.test.js",
+    "test": "node no-cross-app-import.test.js"
   },
   "keywords": [],
   "author": "",
